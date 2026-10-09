@@ -1,0 +1,7 @@
+# Restrict list: emails from these domains (or their subdomains) are ALWAYS spam.
+# One domain per line. Lines starting with # are comments.
+cheap-pills.biz
+lottery-winner.xyz
+phishy-login.net
+# This domain is also on the allow list on purpose (to test priority).
+trusted-bank.com

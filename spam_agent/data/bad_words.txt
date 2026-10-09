@@ -1,0 +1,16 @@
+# Bad word list: words likely to appear in spam.
+# Single words or phrases, one per line. Matching is case-insensitive.
+free
+winner
+prize
+money
+cash
+viagra
+lottery
+urgent
+guaranteed
+click
+discount
+bitcoin
+act now
+limited time

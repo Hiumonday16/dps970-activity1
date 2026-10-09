@@ -1,0 +1,10 @@
+[
+  {"name": "assignment: 12/8/3, measure 1",   "caps": [12, 8, 3], "start": [0, 0, 0], "target": 1,  "steps": 3},
+  {"name": "already solved at start",         "caps": [12, 8, 3], "start": [1, 0, 0], "target": 1,  "steps": 0},
+  {"name": "one fill is enough",              "caps": [12, 8, 3], "start": [0, 0, 0], "target": 12, "steps": 1},
+  {"name": "Die Hard: 4/3, measure 2",        "caps": [4, 3],     "start": [0, 0],    "target": 2,  "steps": 4},
+  {"name": "Die Hard 3: 5/3, measure 4",      "caps": [5, 3],     "start": [0, 0],    "target": 4,  "steps": 6},
+  {"name": "classic 8/5/3 from 8 0 0, measure 4", "caps": [8, 5, 3], "start": [8, 0, 0], "target": 4, "steps": 6},
+  {"name": "impossible: gcd(4,6)=2, measure 1", "caps": [4, 6],   "start": [0, 0],    "target": 1,  "steps": null},
+  {"name": "impossible: bigger than any jug", "caps": [12, 8, 3], "start": [0, 0, 0], "target": 13, "steps": null}
+]

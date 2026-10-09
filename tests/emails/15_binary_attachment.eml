@@ -1,0 +1,19 @@
+From: Friend <friend@unknown-friend.com>
+To: student@myseneca.ca
+Subject: Photo
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="XYZ"
+
+--XYZ
+Content-Type: text/plain; charset="utf-8"
+
+Here is the photo from the trip.
+
+--XYZ
+Content-Type: image/png; name="free_money_winner_prize_cash_click.png"
+Content-Disposition: attachment; filename="free_money_winner_prize_cash_click.png"
+Content-Transfer-Encoding: base64
+
+RnJlZSBiaXRjb2luISBGcmVlIGNhc2ghIEd1YXJhbnRlZWQgbW9uZXksIHVyZ2VudCwgY2xpY2sgbm93LCB3aW5uZXIhCg==
+
+--XYZ--
